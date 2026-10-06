@@ -1,0 +1,6 @@
+{
+  "name": "Chandu Hotel",
+  "description": "Authentic Indian cuisine, signature tandoori platters, traditional biryanis, and warm hospitality since 1998.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
